@@ -1,1 +1,1 @@
-# Building-and-Implementing-Support-Vector-Machine-from-scratch-
+# Building-and-Implementing-Support-Vector-Machine-from-scratch
